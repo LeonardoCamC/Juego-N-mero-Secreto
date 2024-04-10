@@ -15,7 +15,7 @@ body {
 
 
 body::before {
-    background-image: url("img/code.png");
+    background-image: url("code.png");
     background-repeat: no-repeat;
     background-position: right;
     content: "";
